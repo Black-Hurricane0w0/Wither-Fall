@@ -1,0 +1,6 @@
+{
+    "parent":"item/bow",
+    "textures":{
+        "layer0":"survival:item/night_devil_pulling_1"
+    }
+}
